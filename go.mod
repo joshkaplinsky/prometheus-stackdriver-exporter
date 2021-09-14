@@ -1,1 +1,1 @@
-module github.com/jkapdev/prometheus-stackdriver-sidecar
+module github.com/jkapdev/prometheus-stackdriver-exporter
